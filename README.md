@@ -24,3 +24,6 @@
 
 - ⚡ Fun fact: I waste most of my time playing videogames, doing exercise, and watching fun things.
 
+
+Technologies:
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
