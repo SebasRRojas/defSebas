@@ -25,5 +25,19 @@
 - ⚡ Fun fact: I waste most of my time playing videogames, doing exercise, and watching fun things.
 
 
-Technologies:
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+<img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396" height="30px"/>
+<img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" height="30px"/>
+
+- 🌐 &nbsp;
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" height="30px"/>
+<img alt="CSS" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" height="30px"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" height="30px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C" height="30px"/>
+
+- 🛢 &nbsp;
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" height="30px"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" height="30px"/>
