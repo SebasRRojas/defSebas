@@ -28,12 +28,12 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 <p>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
-<img alt="Java" src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=f44336" height="30px"/>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30px"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30px"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30px"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-f44336?style=for-the-badge&logo=java&logoColor=white" height="30px"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
+<img alt="React" src="https://img.shields.io/badge/React-Native-20232A?style=for-the-badge&logo=react-native&logoColor=61DAFB" height="30px"/>
 </p>
 
 ## 📊 GitHub Trophies:
