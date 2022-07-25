@@ -33,7 +33,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30px"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-f44336?style=for-the-badge&logo=java&logoColor=white" height="30px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
-<img alt="React" src="https://img.shields.io/badge/ReactNative-5ccfee?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
+<img alt="React" src="https://img.shields.io/badge/ReactNative-00ccf1?style=for-the-badge&logo=react&logoColor=242424" height="30px"/>
 <img alt="React" src="https://img.shields.io/badge/Thymeleaf-005c0f?style=for-the-badge&logo=Thymeleaf&logoColor=FFFFFF" height="30px"/>
 <img alt="React" src="https://img.shields.io/badge/Springboot-6db33f?style=for-the-badge&logo=springboot&logoColor=FFFFFF" height="30px"/>
 </p>
