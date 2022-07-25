@@ -33,10 +33,10 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30px"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-f44336?style=for-the-badge&logo=java&logoColor=white" height="30px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
-<img alt="React" src="https://img.shields.io/badge/React-Native-20232A?style=for-the-badge&logo=react-native&logoColor=61DAFB" height="30px"/>
+<img alt="React" src="https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=reactnative&logoColor=61DAFB" height="30px"/>
 </p>
 
 ## 📊 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=juergensegura&theme=onedark&title=Commits,Repositories,MultiLanguage,PullRequest,Issues)](https://github.com/juergensegura/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=defSebas&theme=onedark&title=Commits,Repositories,MultiLanguage,PullRequest,Issues)](https://github.com/defSebas/github-profile-trophy)
 
 
