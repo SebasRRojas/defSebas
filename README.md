@@ -34,6 +34,7 @@
 <img alt="Java" src="https://img.shields.io/badge/Java-f44336?style=for-the-badge&logo=java&logoColor=white" height="30px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
 <img alt="React" src="https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
+<img alt="React" src="https://img.shields.io/badge/Thymeleaf-27a00b?style=for-the-badge&logo=Thymeleaf&logoColor=FFFFFF" height="30px"/>
 </p>
 
 ## 📊 GitHub Trophies:
