@@ -35,7 +35,7 @@
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
 <img alt="React" src="https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
 <img alt="React" src="https://img.shields.io/badge/Thymeleaf-005c0f?style=for-the-badge&logo=Thymeleaf&logoColor=FFFFFF" height="30px"/>
-<img alt="React" src="https://img.shields.io/badge/Springboot-f44336?style=for-the-badge&logo=springboot&logoColor=FFFFFF" height="30px"/>
+<img alt="React" src="https://img.shields.io/badge/Springboot-6db33f?style=for-the-badge&logo=springboot&logoColor=FFFFFF" height="30px"/>
 </p>
 
 ## 📊 GitHub Trophies:
