@@ -25,7 +25,10 @@
 - ⚡ Fun fact: I waste most of my time playing videogames, doing exercise, and watching fun things.
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## 🛠Tech Stack:
+
+<img  src="./programming.gif" height="290px" align="right" />
+<br>
 
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30px"/>
