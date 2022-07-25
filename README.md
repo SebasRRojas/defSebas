@@ -39,7 +39,7 @@
 <img alt="React" src="https://img.shields.io/badge/ReactNative-00ccf1?style=for-the-badge&logo=react&logoColor=242424" height="30px"/>
 <img alt="React" src="https://img.shields.io/badge/Thymeleaf-005c0f?style=for-the-badge&logo=Thymeleaf&logoColor=FFFFFF" height="30px"/>
 <img alt="React" src="https://img.shields.io/badge/Springboot-6db33f?style=for-the-badge&logo=springboot&logoColor=FFFFFF" height="30px"/>
-<img alt="React" src="https://img.shields.io/badge/JQuery-f2f2f2?style=for-the-badge&logo=jquery&logoColor=0963a1&textColor=red" height="30px"/>
+<img alt="React" src="https://img.shields.io/badge/JQuery-f2f2f2?style=for-the-badge&logo=jquery&logoColor=0963a1" height="30px"/>
 </p>
 
 ## 📊 GitHub Trophies:
